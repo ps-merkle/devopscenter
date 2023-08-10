@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Grants access to a User SAP Id field which keeps 5 digit SAP Id value</description>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Grant access to User.SAP_Id__c field</label>
 </PermissionSet>
